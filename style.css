@@ -80,7 +80,8 @@ form textarea {
 	padding: 10px;
 	font-size: 18px;
 	margin-bottom: 20px;
-	border: 20px;
+	border: ;
+	border-color: #333;
 	border-radius: 5px;
 }
 
